@@ -19,6 +19,9 @@
 
     <preference name="phonegap-version" value="2.9.0" />
     <preference name="webviewbounce" value="false" />
+    <preference name="prerendered-icon" value="true" />
+	<preference name="ios-statusbarstyle" value="black-translucent" />
+	<preference name="fullscreen" value="true" />
 			
     <icon src="img/iconBlack.png" />
     <gap:splash src="img/splash.png" />
